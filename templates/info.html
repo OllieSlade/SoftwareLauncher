@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="utf-8"/>
+        <base href="../">
+        <title>Disking Repair USB</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="shortcut icon" href="./static/defaultImage.ico">
+    </head>
+    <body id="infoBody">
+        <h4>Disking Midhurst Repair USB Menu Info</h4>
+        <p id="desc">The software menu for the Disking Midhurst repair USB/HBCD. Original USB curated by different Ollie, updated by the new Ollie.</p>
+        <button class="hover" onclick="checkForUpdates()" id="updates">Check for Updates</button>
+        <button class="hover" onclick="runProgram('pdf')" id="tutorial">How to Use</button>
+        <!-- break -->
+        <p id="stats">Version: <b id="pVersion">0.0.0</b><br>Date: 28/03/22<br><i>Electron Version: <i id="eVersion">0.0.0</i></i></p>   
+        <p id="author">Designed and Coded by Ollie Slade<br><i>Hello :)</i></p>
+        <script async src="main.js"></script>
+
+        <script>
+            window.api.send("information")
+            window.api.receive("information", (info) => {
+                document.querySelector("#pVersion").innerHTML = info["app"]
+                document.querySelector("#eVersion").innerHTML = info["electron"]
+            })
+        </script>
+    </body>
+</html>
+
+

@@ -1,0 +1,1360 @@
+{
+    "%cd%:\\users\\ollie\\onedrive\\documents\\test": {
+        "ccleaner (get rid of junk)": {
+            "fileName": "CCleaner (get rid of junk).cmd",
+            "displayName": "CCleaner",
+            "shortDesc": "get rid of junk",
+            "longDesc": "get rid of junk",
+            "iconPath": "ccleaner.ico",
+            "tags": []
+        },
+        "dupfinder (duplicate file finder)": {
+            "fileName": "DupFinder (Duplicate File Finder).cmd",
+            "displayName": "DupFinder",
+            "shortDesc": "Duplicate File Finder",
+            "longDesc": "Duplicate File Finder",
+            "iconPath": "dupfinder (duplicate file finder).ico",
+            "tags": []
+        },
+        "everything is gay": {
+            "fileName": "Everything is gay.cmd",
+            "displayName": "Everything",
+            "shortDesc": "",
+            "longDesc": "",
+            "iconPath": "everything is gay.ico",
+            "tags": []
+        },
+        "icons": {
+            "fileName": "Icons",
+            "displayName": "Icons",
+            "shortDesc": "",
+            "longDesc": "",
+            "iconPath": "",
+            "tags": []
+        },
+        "keytweaboiss": {
+            "fileName": "KeyTweaBoiss.cmd",
+            "displayName": "KeyTweaBoiss",
+            "shortDesc": "",
+            "longDesc": "",
+            "iconPath": "keytweaboiss.ico",
+            "tags": []
+        },
+        "memtest (test that mem)": {
+            "fileName": "memtest (test that mem).cmd",
+            "displayName": "memtest",
+            "shortDesc": "test that mem",
+            "longDesc": "test that mem",
+            "iconPath": "memtest.ico",
+            "tags": []
+        },
+        "new folder": {
+            "fileName": "New folder",
+            "displayName": "New",
+            "shortDesc": "",
+            "longDesc": "",
+            "iconPath": "",
+            "tags": []
+        },
+        "ntfsaccess (change file perm)": {
+            "fileName": "NTFSAccess (change file perm).cmd",
+            "displayName": "NTFSAccess",
+            "shortDesc": "change file perm",
+            "longDesc": "change file perm",
+            "iconPath": "ntfsaccess.ico",
+            "tags": []
+        },
+        "ntpwedit (edit local usr pw)": {
+            "fileName": "NTPWEdit (edit local usr pw).cmd",
+            "displayName": "NTPWEdit",
+            "shortDesc": "edit local usr pw",
+            "longDesc": "edit local usr pw",
+            "iconPath": "ntpwedit.ico",
+            "tags": []
+        },
+        "prime95 (stress test, cpu and ram based)": {
+            "fileName": "prime95 (stress test, cpu and ram based).cmd",
+            "displayName": "prime95",
+            "shortDesc": "stress test, cpu and ram based",
+            "longDesc": "stress test, cpu and ram based",
+            "iconPath": "prime95.ico",
+            "tags": []
+        },
+        "processhacker (hack em)": {
+            "fileName": "processhacker (hack em).cmd",
+            "displayName": "processhacker",
+            "shortDesc": "hack em",
+            "longDesc": "hack em",
+            "iconPath": "processhacker (hack em).ico",
+            "tags": []
+        },
+        "produkey (see windows and software keys)": {
+            "fileName": "Produkey (see windows and software keys).cmd",
+            "displayName": "Produkey",
+            "shortDesc": "see windows and software keys",
+            "longDesc": "see windows and software keys",
+            "iconPath": "produkey.ico",
+            "tags": []
+        },
+        "putty (ssh into a remote pc)": {
+            "fileName": "PUTTY (SSH Into a remote PC).cmd",
+            "displayName": "PUTTY",
+            "shortDesc": "SSH Into a remote PC",
+            "longDesc": "SSH Into a remote PC",
+            "iconPath": "putty.ico",
+            "tags": []
+        },
+        "rbam (malwarebytes rootkit killer)": {
+            "fileName": "rbam (Malwarebytes Rootkit Killer).cmd",
+            "displayName": "rbam",
+            "shortDesc": "Malwarebytes Rootkit Killer",
+            "longDesc": "Malwarebytes Rootkit Killer",
+            "iconPath": "rbam (malwarebytes rootkit killer).ico",
+            "tags": []
+        },
+        "regbak (gunna do something stupid, back it up)": {
+            "fileName": "regbak (gunna do something stupid, back it up).cmd",
+            "displayName": "regbak",
+            "shortDesc": "gunna do something stupid, back it up",
+            "longDesc": "gunna do something stupid, back it up",
+            "iconPath": "regbak.ico",
+            "tags": []
+        },
+        "revouninstaller (speedy uninstaller)": {
+            "fileName": "Revouninstaller (speedy uninstaller).cmd",
+            "displayName": "Revouninstaller",
+            "shortDesc": "speedy uninstaller",
+            "longDesc": "speedy uninstaller",
+            "iconPath": "revouninstaller.ico",
+            "tags": []
+        },
+        "rkill (kills currently running malware)": {
+            "fileName": "rkill (kills currently running malware).cmd",
+            "displayName": "rkill",
+            "shortDesc": "kills currently running malware",
+            "longDesc": "kills currently running malware",
+            "iconPath": "rkill.ico",
+            "tags": []
+        },
+        "rufus (bootable usb)": {
+            "fileName": "rufus (bootable USB).cmd",
+            "displayName": "rufus",
+            "shortDesc": "bootable USB",
+            "longDesc": "bootable USB",
+            "iconPath": "rufus.ico",
+            "tags": []
+        },
+        "shred (fully delet files)": {
+            "fileName": "Shred (Fully delet files).cmd",
+            "displayName": "Shred",
+            "shortDesc": "Fully delet files",
+            "longDesc": "Fully delet files",
+            "iconPath": "shred (fully delet files).ico",
+            "tags": []
+        },
+        "spacesniffer (visualised spaces taken up)": {
+            "fileName": "SpaceSniffer (visualised spaces taken up).cmd",
+            "displayName": "SpaceSniffer",
+            "shortDesc": "visualised spaces taken up",
+            "longDesc": "visualised spaces taken up",
+            "iconPath": "spacesniffer (visualised spaces taken up).ico",
+            "tags": []
+        },
+        "speccy bois (gay)": {
+            "fileName": "Speccy Bois (gay).cmd",
+            "displayName": "Speccy",
+            "shortDesc": "gay",
+            "longDesc": "gay",
+            "iconPath": "speccy bois (gay).ico",
+            "tags": []
+        },
+        "teracopy (slut edition)": {
+            "fileName": "TeraCopy (Slut Edition).cmd",
+            "displayName": "TeraCopy",
+            "shortDesc": "Slut Edition",
+            "longDesc": "Slut Edition",
+            "iconPath": "teracopy (slut edition).ico",
+            "tags": []
+        },
+        "test": {
+            "fileName": "test.cmd",
+            "displayName": "test",
+            "shortDesc": "",
+            "longDesc": "",
+            "iconPath": "test.ico",
+            "tags": []
+        },
+        "whatishang (shows whats hanging and why)": {
+            "fileName": "WhatIsHang (shows whats hanging and why).cmd",
+            "displayName": "WhatIsHang",
+            "shortDesc": "shows whats hanging and why",
+            "longDesc": "shows whats hanging and why",
+            "iconPath": "whatishang (shows whats hanging and why).ico",
+            "tags": []
+        },
+        "winupdatesview sssssss(shows all previous updates installed)": {
+            "fileName": "WinUpdatesView sssssss(shows all previous updates installed).cmd",
+            "displayName": "WinUpdatesView",
+            "shortDesc": "shows all previous updates installed",
+            "longDesc": "shows all previous updates installed",
+            "iconPath": "winupdatesview sssssss(shows all previous updates installed).ico",
+            "tags": []
+        },
+        "ztest - copy": {
+            "fileName": "ztest - Copy.cmd",
+            "displayName": "ztest",
+            "shortDesc": "",
+            "longDesc": "",
+            "iconPath": "ztest - copy.ico",
+            "tags": []
+        },
+        "7-zip (file compression)": {
+            "fileName": "7-Zip (File Compression).cmd",
+            "displayName": "7-Zip",
+            "shortDesc": "File Compression",
+            "longDesc": "File Compression",
+            "iconPath": "7-zip.ico",
+            "tags": []
+        },
+        "7z": {
+            "fileName": "7z.dll",
+            "displayName": "7z",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "",
+            "tags": []
+        },
+        "activity viewer (view everything thats happend)": {
+            "fileName": "Activity Viewer (view everything thats happend).cmd",
+            "displayName": "Activity",
+            "shortDesc": "view everything thats happend",
+            "longDesc": "view everything thats happend",
+            "iconPath": "activity.ico",
+            "tags": []
+        },
+        "adwcleaner (adware cleaner)": {
+            "fileName": "AdwCleaner (Adware Cleaner).cmd",
+            "displayName": "AdwCleaner",
+            "shortDesc": "Adware Cleaner",
+            "longDesc": "Adware Cleaner",
+            "iconPath": "adwcleaner.ico",
+            "tags": []
+        },
+        "autologon (login to win automatically)": {
+            "fileName": "Autologon (login to win automatically).cmd",
+            "displayName": "Autologon",
+            "shortDesc": "login to win automatically",
+            "longDesc": "login to win automatically",
+            "iconPath": "autologon.ico",
+            "tags": []
+        },
+        "autoruns (everything that runs on start)": {
+            "fileName": "AutoRuns (everything that runs on start).cmd",
+            "displayName": "AutoRuns",
+            "shortDesc": "everything that runs on start",
+            "longDesc": "everything that runs on start",
+            "iconPath": "autoruns.ico",
+            "tags": []
+        },
+        "batterymon (battery checking)": {
+            "fileName": "BatteryMon (Battery Checking).cmd",
+            "displayName": "BatteryMon",
+            "shortDesc": "Battery Checking",
+            "longDesc": "Battery Checking",
+            "iconPath": "batterymon.ico",
+            "tags": []
+        },
+        "bluescreenview (blue screen logs)": {
+            "fileName": "BlueScreenView (blue screen logs).cmd",
+            "displayName": "BlueScreenView",
+            "shortDesc": "blue screen logs",
+            "longDesc": "blue screen logs",
+            "iconPath": "bluescreenview.ico",
+            "tags": []
+        },
+        "clean hbcd temp files (please run once done)": {
+            "fileName": "CLEAN HBCD TEMP FILES (PLEASE RUN ONCE DONE).cmd.lnk",
+            "displayName": "CLEAN",
+            "shortDesc": "PLEASE RUN ONCE DONE",
+            "longDesc": "PLEASE RUN ONCE DONE",
+            "iconPath": "clean hbcd temp files (please run once done).ico",
+            "tags": []
+        },
+        "completeinternetrepair (all the network fixes)": {
+            "fileName": "CompleteInternetRepair (all the network fixes).cmd",
+            "displayName": "CompleteInternetRepair",
+            "shortDesc": "all the network fixes",
+            "longDesc": "all the network fixes",
+            "iconPath": "completeinternetrepair.ico",
+            "tags": []
+        },
+        "crystaldiskinfo (disk info)": {
+            "fileName": "CrystalDiskInfo (disk info).cmd",
+            "displayName": "CrystalDiskInfo",
+            "shortDesc": "disk info",
+            "longDesc": "disk info",
+            "iconPath": "crystaldiskinfo.ico",
+            "tags": []
+        },
+        "diskdigger (data recovery)": {
+            "fileName": "DiskDigger (data recovery).cmd",
+            "displayName": "DiskDigger",
+            "shortDesc": "data recovery",
+            "longDesc": "data recovery",
+            "iconPath": "diskdigger.ico",
+            "tags": []
+        },
+        "dontsleep (prevent or force sleeping)": {
+            "fileName": "DontSleep (prevent or force sleeping).cmd",
+            "displayName": "DontSleep",
+            "shortDesc": "prevent or force sleeping",
+            "longDesc": "prevent or force sleeping",
+            "iconPath": "dontsleep.ico",
+            "tags": []
+        },
+        "driverviewer (view all the drivers)": {
+            "fileName": "DriverViewer (view ALL the drivers).cmd",
+            "displayName": "DriverViewer",
+            "shortDesc": "view ALL the drivers",
+            "longDesc": "view ALL the drivers",
+            "iconPath": "driverviewer.ico",
+            "tags": []
+        },
+        "dumo (driver update checker)": {
+            "fileName": "DUMo (Driver Update checker).cmd",
+            "displayName": "DUMo",
+            "shortDesc": "Driver Update checker",
+            "longDesc": "Driver Update checker",
+            "iconPath": "dumo.ico",
+            "tags": []
+        },
+        "easybcd (modify boot information)": {
+            "fileName": "EasyBCD (Modify boot information).cmd",
+            "displayName": "EasyBCD",
+            "shortDesc": "Modify boot information",
+            "longDesc": "Modify boot information",
+            "iconPath": "easybcd.ico",
+            "tags": []
+        },
+        "esetnod (nod32 installer)": {
+            "fileName": "ESETnod (NOD32 installer).cmd",
+            "displayName": "ESETnod",
+            "shortDesc": "NOD32 installer",
+            "longDesc": "NOD32 installer",
+            "iconPath": "esetnod.ico",
+            "tags": []
+        },
+        "esetscanner (eset online scanner)": {
+            "fileName": "ESETscanner (ESET Online Scanner).cmd",
+            "displayName": "ESETscanner",
+            "shortDesc": "ESET Online Scanner",
+            "longDesc": "ESET Online Scanner",
+            "iconPath": "esetscanner.ico",
+            "tags": []
+        },
+        "esetss (internet security installer)": {
+            "fileName": "ESETss (Internet Security Installer).cmd",
+            "displayName": "ESETss",
+            "shortDesc": "Internet Security Installer",
+            "longDesc": "Internet Security Installer",
+            "iconPath": "esetss.ico",
+            "tags": []
+        },
+        "everything (search utility)": {
+            "fileName": "Everything (Search Utility).cmd",
+            "displayName": "Everything",
+            "shortDesc": "Search Utility",
+            "longDesc": "Search Utility",
+            "iconPath": "everything.ico",
+            "tags": []
+        },
+        "files": {
+            "fileName": "Files",
+            "displayName": "Files",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "",
+            "tags": []
+        },
+        "furmark (stress test, gpu based)": {
+            "fileName": "FurMark (stress test, GPU Based).cmd",
+            "displayName": "FurMark",
+            "shortDesc": "stress test, GPU Based",
+            "longDesc": "stress test, GPU Based",
+            "iconPath": "furmark.ico",
+            "tags": []
+        },
+        "hdtune (drive health)": {
+            "fileName": "HDTune (Drive Health).cmd",
+            "displayName": "HDTune",
+            "shortDesc": "Drive Health",
+            "longDesc": "Drive Health",
+            "iconPath": "hdtune.ico",
+            "tags": []
+        },
+        "hijackthis (reports suspicious files)": {
+            "fileName": "HijackThis (reports suspicious files).cmd",
+            "displayName": "HijackThis",
+            "shortDesc": "reports suspicious files",
+            "longDesc": "reports suspicious files",
+            "iconPath": "hijackthis.ico",
+            "tags": []
+        },
+        "hwinfo (all the info and sensors you ever need)": {
+            "fileName": "HWInfo (All the info and sensors you ever need).cmd",
+            "displayName": "HWInfo",
+            "shortDesc": "All the info and sensors you ever need",
+            "longDesc": "All the info and sensors you ever need",
+            "iconPath": "hwinfo.ico",
+            "tags": []
+        },
+        "hwmonitor (sensor monitoring)": {
+            "fileName": "HWMonitor (Sensor Monitoring).cmd",
+            "displayName": "HWMonitor",
+            "shortDesc": "Sensor Monitoring",
+            "longDesc": "Sensor Monitoring",
+            "iconPath": "hwmonitor.ico",
+            "tags": []
+        },
+        "imgburn (bootable discs)": {
+            "fileName": "ImgBurn (Bootable discs).cmd",
+            "displayName": "ImgBurn",
+            "shortDesc": "Bootable discs",
+            "longDesc": "Bootable discs",
+            "iconPath": "imgburn.ico",
+            "tags": []
+        },
+        "keytweak (make a key do something else)": {
+            "fileName": "KeyTweak (make a key do something else).cmd",
+            "displayName": "KeyTweak",
+            "shortDesc": "make a key do something else",
+            "longDesc": "make a key do something else",
+            "iconPath": "keytweak.ico",
+            "tags": []
+        },
+        "malwarebytes (malware cleaner)": {
+            "fileName": "Malwarebytes (Malware cleaner).cmd",
+            "displayName": "Malwarebytes",
+            "shortDesc": "Malware cleaner",
+            "longDesc": "Malware cleaner",
+            "iconPath": "malwarebytes.ico",
+            "tags": []
+        },
+        "malwarebytes rootkit killer": {
+            "fileName": "Malwarebytes Rootkit Killer.cmd",
+            "displayName": "Malwarebytes",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "malwarebytes.ico",
+            "tags": []
+        },
+        "mediacreation10 (windows 10 updator and media creator)": {
+            "fileName": "mediacreation10 (windows 10 updator and media creator).cmd",
+            "displayName": "mediacreation10",
+            "shortDesc": "windows 10 updator and media creator",
+            "longDesc": "windows 10 updator and media creator",
+            "iconPath": "mediacreation10.ico",
+            "tags": []
+        },
+        "ninite (opens the website)": {
+            "fileName": "Ninite (opens the website).cmd",
+            "displayName": "Ninite",
+            "shortDesc": "opens the website",
+            "longDesc": "opens the website",
+            "iconPath": "ninite.ico",
+            "tags": []
+        },
+        "onscreenkeyboard": {
+            "fileName": "OnScreenKeyboard.cmd",
+            "displayName": "OnScreenKeyboard",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "onscreenkeyboard.ico",
+            "tags": []
+        },
+        "printflush (simples printer fixes)": {
+            "fileName": "PrintFlush (simples printer fixes).cmd",
+            "displayName": "PrintFlush",
+            "shortDesc": "simples printer fixes",
+            "longDesc": "simples printer fixes",
+            "iconPath": "printflush.ico",
+            "tags": []
+        },
+        "processhacker (see all the processes running)": {
+            "fileName": "processhacker (see ALL the processes running).cmd",
+            "displayName": "processhacker",
+            "shortDesc": "see ALL the processes running",
+            "longDesc": "see ALL the processes running",
+            "iconPath": "processhacker.ico",
+            "tags": []
+        },
+        "rawcopy (clone from faulty drive)": {
+            "fileName": "RawCopy (Clone from faulty drive).cmd",
+            "displayName": "RawCopy",
+            "shortDesc": "Clone from faulty drive",
+            "longDesc": "Clone from faulty drive",
+            "iconPath": "rawcopy.ico",
+            "tags": []
+        },
+        "rmprepusb (bootable usb and more)": {
+            "fileName": "RMPrepUSB (bootable usb and more).cmd",
+            "displayName": "RMPrepUSB",
+            "shortDesc": "bootable usb and more",
+            "longDesc": "bootable usb and more",
+            "iconPath": "rmprepusb.ico",
+            "tags": []
+        },
+        "roguekiller (anti-malware)": {
+            "fileName": "RogueKiller (anti-malware).cmd",
+            "displayName": "RogueKiller",
+            "shortDesc": "anti-malware",
+            "longDesc": "anti-malware",
+            "iconPath": "roguekiller.ico",
+            "tags": []
+        },
+        "routerpasswords (default passwords)": {
+            "fileName": "RouterPasswords (default passwords).cmd",
+            "displayName": "RouterPasswords",
+            "shortDesc": "default passwords",
+            "longDesc": "default passwords",
+            "iconPath": "routerpasswords.ico",
+            "tags": []
+        },
+        "shredder (fully delete files)": {
+            "fileName": "Shredder (Fully delete files).cmd",
+            "displayName": "Shredder",
+            "shortDesc": "Fully delete files",
+            "longDesc": "Fully delete files",
+            "iconPath": "shredder.ico",
+            "tags": []
+        },
+        "spacesniffer (visualise space taken up)": {
+            "fileName": "SpaceSniffer (visualise space taken up).cmd",
+            "displayName": "SpaceSniffer",
+            "shortDesc": "visualise space taken up",
+            "longDesc": "visualise space taken up",
+            "iconPath": "spacesniffer.ico",
+            "tags": []
+        },
+        "speccy (system specs overview)": {
+            "fileName": "Speccy (system specs overview).cmd",
+            "displayName": "Speccy",
+            "shortDesc": "system specs overview",
+            "longDesc": "system specs overview",
+            "iconPath": "speccy.ico",
+            "tags": []
+        },
+        "sumo (software update checker)": {
+            "fileName": "SUMo (software update checker).cmd",
+            "displayName": "SUMo",
+            "shortDesc": "software update checker",
+            "longDesc": "software update checker",
+            "iconPath": "sumo.ico",
+            "tags": []
+        },
+        "superantispyware (anti spyware, its super)": {
+            "fileName": "SuperAntiSpyware (anti spyware, its super).cmd",
+            "displayName": "SuperAntiSpyware",
+            "shortDesc": "anti spyware, its super",
+            "longDesc": "anti spyware, its super",
+            "iconPath": "superantispyware.ico",
+            "tags": []
+        },
+        "tcpview (view active network traffic)": {
+            "fileName": "TCPView (view active network traffic).cmd",
+            "displayName": "TCPView",
+            "shortDesc": "view active network traffic",
+            "longDesc": "view active network traffic",
+            "iconPath": "tcpview.ico",
+            "tags": []
+        },
+        "teracopy (speedy file copy)": {
+            "fileName": "TeraCopy (speedy file copy).cmd",
+            "displayName": "TeraCopy",
+            "shortDesc": "speedy file copy",
+            "longDesc": "speedy file copy",
+            "iconPath": "teracopy.ico",
+            "tags": []
+        },
+        "treesize (advanced filesystem viewer)": {
+            "fileName": "treesize (advanced filesystem viewer).cmd",
+            "displayName": "treesize",
+            "shortDesc": "advanced filesystem viewer",
+            "longDesc": "advanced filesystem viewer",
+            "iconPath": "treesize.ico",
+            "tags": []
+        },
+        "ultimatewindowstweaker10": {
+            "fileName": "UltimateWindowsTweaker10.cmd",
+            "displayName": "UltimateWindowsTweaker10",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "ultimatewindowstweaker10.ico",
+            "tags": []
+        },
+        "ultimatewindowstweaker7": {
+            "fileName": "UltimateWindowsTweaker7.cmd",
+            "displayName": "UltimateWindowsTweaker7",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "ultimatewindowstweaker7.ico",
+            "tags": []
+        },
+        "unstoppablecopier (data recovery)": {
+            "fileName": "UnstoppableCopier (data recovery).cmd",
+            "displayName": "UnstoppableCopier",
+            "shortDesc": "data recovery",
+            "longDesc": "data recovery",
+            "iconPath": "unstoppablecopier.ico",
+            "tags": []
+        },
+        "windowsrepair (loads of random repair tools)": {
+            "fileName": "WindowsRepair (Loads of random repair tools).cmd",
+            "displayName": "WindowsRepair",
+            "shortDesc": "Loads of random repair tools",
+            "longDesc": "Loads of random repair tools",
+            "iconPath": "windowsrepair.ico",
+            "tags": []
+        },
+        "winupdateviewer (shows all previous updates installed)": {
+            "fileName": "WinUpdateViewer (shows all previous updates installed).cmd",
+            "displayName": "WinUpdateViewer",
+            "shortDesc": "shows all previous updates installed",
+            "longDesc": "shows all previous updates installed",
+            "iconPath": "winupdateviewer.ico",
+            "tags": []
+        },
+        "writeprotectusb": {
+            "fileName": "WriteProtectUSB.cmd",
+            "displayName": "WriteProtectUSB",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "writeprotectusb.ico",
+            "tags": []
+        }
+    },
+    "c:\\users\\ollie\\onedrive\\documents\\test": {
+        "ccleaner (get rid of junk)": {
+            "fileName": "CCleaner (get rid of junk).cmd",
+            "displayName": "CCleaner",
+            "shortDesc": "get rid of junk",
+            "longDesc": "get rid of junk",
+            "iconPath": "ccleaner (get rid of junk).ico",
+            "tags": []
+        },
+        "dupfinder (duplicate file finder)": {
+            "fileName": "DupFinder (Duplicate File Finder).cmd",
+            "displayName": "DupFinder",
+            "shortDesc": "Duplicate File Finder",
+            "longDesc": "Duplicate File Finder",
+            "iconPath": "dupfinder (duplicate file finder).ico",
+            "tags": []
+        },
+        "everything is gay": {
+            "fileName": "Everything is gay.cmd",
+            "displayName": "Everything",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "everything is gay.ico",
+            "tags": []
+        },
+        "icons": {
+            "fileName": "Icons",
+            "displayName": "Icons",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "",
+            "tags": []
+        },
+        "keytweaboiss": {
+            "fileName": "KeyTweaBoiss.cmd",
+            "displayName": "KeyTweaBoiss",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "keytweaboiss.ico",
+            "tags": []
+        },
+        "memtest (test that mem)": {
+            "fileName": "memtest (test that mem).cmd",
+            "displayName": "memtest",
+            "shortDesc": "test that mem",
+            "longDesc": "test that mem",
+            "iconPath": "memtest (test that mem).ico",
+            "tags": []
+        },
+        "new folder": {
+            "fileName": "New folder",
+            "displayName": "New",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "",
+            "tags": []
+        },
+        "ntfsaccess (change file perm)": {
+            "fileName": "NTFSAccess (change file perm).cmd",
+            "displayName": "NTFSAccess",
+            "shortDesc": "change file perm",
+            "longDesc": "change file perm",
+            "iconPath": "ntfsaccess (change file perm).ico",
+            "tags": []
+        },
+        "ntpwedit (edit local usr pw)": {
+            "fileName": "NTPWEdit (edit local usr pw).cmd",
+            "displayName": "NTPWEdit",
+            "shortDesc": "edit local usr pw",
+            "longDesc": "edit local usr pw",
+            "iconPath": "ntpwedit (edit local usr pw).ico",
+            "tags": []
+        },
+        "prime95 (stress test, cpu and ram based)": {
+            "fileName": "prime95 (stress test, cpu and ram based).cmd",
+            "displayName": "prime95",
+            "shortDesc": "stress test, cpu and ram based",
+            "longDesc": "stress test, cpu and ram based",
+            "iconPath": "prime95 (stress test, cpu and ram based).ico",
+            "tags": []
+        },
+        "processhacker (hack em)": {
+            "fileName": "processhacker (hack em).cmd",
+            "displayName": "processhacker",
+            "shortDesc": "hack em",
+            "longDesc": "hack em",
+            "iconPath": "processhacker (hack em).ico",
+            "tags": []
+        },
+        "produkey (see windows and software keys)": {
+            "fileName": "Produkey (see windows and software keys).cmd",
+            "displayName": "Produkey",
+            "shortDesc": "see windows and software keys",
+            "longDesc": "see windows and software keys",
+            "iconPath": "produkey (see windows and software keys).ico",
+            "tags": []
+        },
+        "putty (ssh into a remote pc)": {
+            "fileName": "PUTTY (SSH Into a remote PC).cmd",
+            "displayName": "PUTTY",
+            "shortDesc": "SSH Into a remote PC",
+            "longDesc": "SSH Into a remote PC",
+            "iconPath": "putty (ssh into a remote pc).ico",
+            "tags": []
+        },
+        "rbam (malwarebytes rootkit killer)": {
+            "fileName": "rbam (Malwarebytes Rootkit Killer).cmd",
+            "displayName": "rbam",
+            "shortDesc": "Malwarebytes Rootkit Killer",
+            "longDesc": "Malwarebytes Rootkit Killer",
+            "iconPath": "rbam (malwarebytes rootkit killer).ico",
+            "tags": []
+        },
+        "regbak (gunna do something stupid, back it up)": {
+            "fileName": "regbak (gunna do something stupid, back it up).cmd",
+            "displayName": "regbak",
+            "shortDesc": "gunna do something stupid, back it up",
+            "longDesc": "gunna do something stupid, back it up",
+            "iconPath": "regbak (gunna do something stupid, back it up).ico",
+            "tags": []
+        },
+        "revouninstaller (speedy uninstaller)": {
+            "fileName": "Revouninstaller (speedy uninstaller).cmd",
+            "displayName": "Revouninstaller",
+            "shortDesc": "speedy uninstaller",
+            "longDesc": "speedy uninstaller",
+            "iconPath": "revouninstaller (speedy uninstaller).ico",
+            "tags": []
+        },
+        "rkill (kills currently running malware)": {
+            "fileName": "rkill (kills currently running malware).cmd",
+            "displayName": "rkill",
+            "shortDesc": "kills currently running malware",
+            "longDesc": "kills currently running malware",
+            "iconPath": "rkill (kills currently running malware).ico",
+            "tags": []
+        },
+        "rufus (bootable usb)": {
+            "fileName": "rufus (bootable USB).cmd",
+            "displayName": "rufus",
+            "shortDesc": "bootable USB",
+            "longDesc": "bootable USB",
+            "iconPath": "rufus (bootable usb).ico",
+            "tags": []
+        },
+        "shred (fully delet files)": {
+            "fileName": "Shred (Fully delet files).cmd",
+            "displayName": "Shred",
+            "shortDesc": "Fully delet files",
+            "longDesc": "Fully delet files",
+            "iconPath": "shred (fully delet files).ico",
+            "tags": []
+        },
+        "spacesniffer (visualised spaces taken up)": {
+            "fileName": "SpaceSniffer (visualised spaces taken up).cmd",
+            "displayName": "SpaceSniffer",
+            "shortDesc": "visualised spaces taken up",
+            "longDesc": "visualised spaces taken up",
+            "iconPath": "spacesniffer (visualised spaces taken up).ico",
+            "tags": []
+        },
+        "speccy bois (gay)": {
+            "fileName": "Speccy Bois (gay).cmd",
+            "displayName": "Speccy",
+            "shortDesc": "gay",
+            "longDesc": "gay",
+            "iconPath": "speccy bois (gay).ico",
+            "tags": []
+        },
+        "teracopy (slut edition)": {
+            "fileName": "TeraCopy (Slut Edition).cmd",
+            "displayName": "TeraCopy",
+            "shortDesc": "Slut Edition",
+            "longDesc": "Slut Edition",
+            "iconPath": "teracopy (slut edition).ico",
+            "tags": []
+        },
+        "test": {
+            "fileName": "test.cmd",
+            "displayName": "test",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "test.ico",
+            "tags": []
+        },
+        "whatishang (shows whats hanging and why)": {
+            "fileName": "WhatIsHang (shows whats hanging and why).cmd",
+            "displayName": "WhatIsHang",
+            "shortDesc": "shows whats hanging and why",
+            "longDesc": "shows whats hanging and why",
+            "iconPath": "whatishang (shows whats hanging and why).ico",
+            "tags": []
+        },
+        "winupdatesview sssssss(shows all previous updates installed)": {
+            "fileName": "WinUpdatesView sssssss(shows all previous updates installed).cmd",
+            "displayName": "WinUpdatesView",
+            "shortDesc": "shows all previous updates installed",
+            "longDesc": "shows all previous updates installed",
+            "iconPath": "winupdatesview sssssss(shows all previous updates installed).ico",
+            "tags": []
+        },
+        "ztest - copy": {
+            "fileName": "ztest - Copy.cmd",
+            "displayName": "ztest",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "ztest - copy.ico",
+            "tags": []
+        }
+    },
+    "o:\\ollie\\documents\\programs disking stick\\version 1.5\\hbcd": {
+        "7-zip (file compression)": {
+            "fileName": "7-Zip (File Compression).cmd",
+            "displayName": "7-Zip",
+            "shortDesc": "File Compression",
+            "longDesc": "File Compression",
+            "iconPath": "7-zip.ico",
+            "tags": []
+        },
+        "7z": {
+            "fileName": "7z.dll",
+            "displayName": "7z",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "",
+            "tags": []
+        },
+        "activity viewer (view everything thats happend)": {
+            "fileName": "Activity Viewer (view everything thats happend).cmd",
+            "displayName": "Activity",
+            "shortDesc": "view everything thats happend",
+            "longDesc": "view everything thats happend",
+            "iconPath": "activity.ico",
+            "tags": []
+        },
+        "adwcleaner (adware cleaner)": {
+            "fileName": "AdwCleaner (Adware Cleaner).cmd",
+            "displayName": "AdwCleaner",
+            "shortDesc": "Adware Cleaner",
+            "longDesc": "Adware Cleaner",
+            "iconPath": "adwcleaner.ico",
+            "tags": []
+        },
+        "autologon (login to win automatically)": {
+            "fileName": "Autologon (login to win automatically).cmd",
+            "displayName": "Autologon",
+            "shortDesc": "login to win automatically",
+            "longDesc": "login to win automatically",
+            "iconPath": "autologon.ico",
+            "tags": []
+        },
+        "autoruns (everything that runs on start)": {
+            "fileName": "AutoRuns (everything that runs on start).cmd",
+            "displayName": "AutoRuns",
+            "shortDesc": "everything that runs on start",
+            "longDesc": "everything that runs on start",
+            "iconPath": "autoruns.ico",
+            "tags": []
+        },
+        "batterymon (battery checking)": {
+            "fileName": "BatteryMon (Battery Checking).cmd",
+            "displayName": "BatteryMon",
+            "shortDesc": "Battery Checking",
+            "longDesc": "Battery Checking",
+            "iconPath": "batterymon.ico",
+            "tags": []
+        },
+        "bluescreenview (blue screen logs)": {
+            "fileName": "BlueScreenView (blue screen logs).cmd",
+            "displayName": "BlueScreenView",
+            "shortDesc": "blue screen logs",
+            "longDesc": "blue screen logs",
+            "iconPath": "bluescreenview.ico",
+            "tags": []
+        },
+        "ccleaner (get rid of junk)": {
+            "fileName": "CCleaner (get rid of junk).cmd",
+            "displayName": "CCleaner",
+            "shortDesc": "get rid of junk",
+            "longDesc": "get rid of junk",
+            "iconPath": "ccleaner.ico",
+            "tags": []
+        },
+        "clean hbcd temp files (please run once done)": {
+            "fileName": "CLEAN HBCD TEMP FILES (PLEASE RUN ONCE DONE).cmd.lnk",
+            "displayName": "CLEAN",
+            "shortDesc": "PLEASE RUN ONCE DONE",
+            "longDesc": "PLEASE RUN ONCE DONE",
+            "iconPath": "clean hbcd temp files (please run once done).ico",
+            "tags": []
+        },
+        "completeinternetrepair (all the network fixes)": {
+            "fileName": "CompleteInternetRepair (all the network fixes).cmd",
+            "displayName": "CompleteInternetRepair",
+            "shortDesc": "all the network fixes",
+            "longDesc": "all the network fixes",
+            "iconPath": "completeinternetrepair.ico",
+            "tags": []
+        },
+        "crystaldiskinfo (disk info)": {
+            "fileName": "CrystalDiskInfo (disk info).cmd",
+            "displayName": "CrystalDiskInfo",
+            "shortDesc": "disk info",
+            "longDesc": "disk info",
+            "iconPath": "crystaldiskinfo.ico",
+            "tags": []
+        },
+        "diskdigger (data recovery)": {
+            "fileName": "DiskDigger (data recovery).cmd",
+            "displayName": "DiskDigger",
+            "shortDesc": "data recovery",
+            "longDesc": "data recovery",
+            "iconPath": "diskdigger.ico",
+            "tags": []
+        },
+        "dontsleep (prevent or force sleeping)": {
+            "fileName": "DontSleep (prevent or force sleeping).cmd",
+            "displayName": "DontSleep",
+            "shortDesc": "prevent or force sleeping",
+            "longDesc": "prevent or force sleeping",
+            "iconPath": "dontsleep.ico",
+            "tags": []
+        },
+        "driverviewer (view all the drivers)": {
+            "fileName": "DriverViewer (view ALL the drivers).cmd",
+            "displayName": "DriverViewer",
+            "shortDesc": "view ALL the drivers",
+            "longDesc": "view ALL the drivers",
+            "iconPath": "driverviewer.ico",
+            "tags": []
+        },
+        "dumo (driver update checker)": {
+            "fileName": "DUMo (Driver Update checker).cmd",
+            "displayName": "DUMo",
+            "shortDesc": "Driver Update checker",
+            "longDesc": "Driver Update checker",
+            "iconPath": "dumo.ico",
+            "tags": []
+        },
+        "easybcd (modify boot information)": {
+            "fileName": "EasyBCD (Modify boot information).cmd",
+            "displayName": "EasyBCD",
+            "shortDesc": "Modify boot information",
+            "longDesc": "Modify boot information",
+            "iconPath": "easybcd.ico",
+            "tags": []
+        },
+        "esetnod (nod32 installer)": {
+            "fileName": "ESETnod (NOD32 installer).cmd",
+            "displayName": "ESETnod",
+            "shortDesc": "NOD32 installer",
+            "longDesc": "NOD32 installer",
+            "iconPath": "esetnod.ico",
+            "tags": []
+        },
+        "esetscanner (eset online scanner)": {
+            "fileName": "ESETscanner (ESET Online Scanner).cmd",
+            "displayName": "ESETscanner",
+            "shortDesc": "ESET Online Scanner",
+            "longDesc": "ESET Online Scanner",
+            "iconPath": "esetscanner.ico",
+            "tags": []
+        },
+        "esetss (internet security installer)": {
+            "fileName": "ESETss (Internet Security Installer).cmd",
+            "displayName": "ESETss",
+            "shortDesc": "Internet Security Installer",
+            "longDesc": "Internet Security Installer",
+            "iconPath": "esetss.ico",
+            "tags": []
+        },
+        "everything (search utility)": {
+            "fileName": "Everything (Search Utility).cmd",
+            "displayName": "Everything",
+            "shortDesc": "Search Utility",
+            "longDesc": "Search Utility",
+            "iconPath": "everything.ico",
+            "tags": []
+        },
+        "files": {
+            "fileName": "Files",
+            "displayName": "Files",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "",
+            "tags": []
+        },
+        "furmark (stress test, gpu based)": {
+            "fileName": "FurMark (stress test, GPU Based).cmd",
+            "displayName": "FurMark",
+            "shortDesc": "stress test, GPU Based",
+            "longDesc": "stress test, GPU Based",
+            "iconPath": "furmark.ico",
+            "tags": []
+        },
+        "hdtune (drive health)": {
+            "fileName": "HDTune (Drive Health).cmd",
+            "displayName": "HDTune",
+            "shortDesc": "Drive Health",
+            "longDesc": "Drive Health",
+            "iconPath": "hdtune.ico",
+            "tags": []
+        },
+        "hijackthis (reports suspicious files)": {
+            "fileName": "HijackThis (reports suspicious files).cmd",
+            "displayName": "HijackThis",
+            "shortDesc": "reports suspicious files",
+            "longDesc": "reports suspicious files",
+            "iconPath": "hijackthis.ico",
+            "tags": []
+        },
+        "hwinfo (all the info and sensors you ever need)": {
+            "fileName": "HWInfo (All the info and sensors you ever need).cmd",
+            "displayName": "HWInfo",
+            "shortDesc": "All the info and sensors you ever need",
+            "longDesc": "All the info and sensors you ever need",
+            "iconPath": "hwinfo.ico",
+            "tags": []
+        },
+        "hwmonitor (sensor monitoring)": {
+            "fileName": "HWMonitor (Sensor Monitoring).cmd",
+            "displayName": "HWMonitor",
+            "shortDesc": "Sensor Monitoring",
+            "longDesc": "Sensor Monitoring",
+            "iconPath": "hwmonitor.ico",
+            "tags": []
+        },
+        "imgburn (bootable discs)": {
+            "fileName": "ImgBurn (Bootable discs).cmd",
+            "displayName": "ImgBurn",
+            "shortDesc": "Bootable discs",
+            "longDesc": "Bootable discs",
+            "iconPath": "imgburn.ico",
+            "tags": []
+        },
+        "keytweak (make a key do something else)": {
+            "fileName": "KeyTweak (make a key do something else).cmd",
+            "displayName": "KeyTweak",
+            "shortDesc": "make a key do something else",
+            "longDesc": "make a key do something else",
+            "iconPath": "keytweak.ico",
+            "tags": []
+        },
+        "malwarebytes (malware cleaner)": {
+            "fileName": "Malwarebytes (Malware cleaner).cmd",
+            "displayName": "Malwarebytes",
+            "shortDesc": "Malware cleaner",
+            "longDesc": "Malware cleaner",
+            "iconPath": "malwarebytes.ico",
+            "tags": []
+        },
+        "malwarebytes rootkit killer": {
+            "fileName": "Malwarebytes Rootkit Killer.cmd",
+            "displayName": "Malwarebytes",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "malwarebytes.ico",
+            "tags": []
+        },
+        "mediacreation10 (windows 10 updator and media creator)": {
+            "fileName": "mediacreation10 (windows 10 updator and media creator).cmd",
+            "displayName": "mediacreation10",
+            "shortDesc": "windows 10 updator and media creator",
+            "longDesc": "windows 10 updator and media creator",
+            "iconPath": "mediacreation10.ico",
+            "tags": []
+        },
+        "memtest (test that mem)": {
+            "fileName": "MemTest (test that mem).cmd",
+            "displayName": "MemTest",
+            "shortDesc": "test that mem",
+            "longDesc": "test that mem",
+            "iconPath": "memtest.ico",
+            "tags": []
+        },
+        "ninite (opens the website)": {
+            "fileName": "Ninite (opens the website).cmd",
+            "displayName": "Ninite",
+            "shortDesc": "opens the website",
+            "longDesc": "opens the website",
+            "iconPath": "ninite.ico",
+            "tags": []
+        },
+        "ntfsaccess (change file perm)": {
+            "fileName": "NTFSAccess (change file perm).cmd",
+            "displayName": "NTFSAccess",
+            "shortDesc": "change file perm",
+            "longDesc": "change file perm",
+            "iconPath": "ntfsaccess.ico",
+            "tags": []
+        },
+        "ntpwedit (edit local usr pw)": {
+            "fileName": "NTPWEdit (edit local usr pw).cmd",
+            "displayName": "NTPWEdit",
+            "shortDesc": "edit local usr pw",
+            "longDesc": "edit local usr pw",
+            "iconPath": "ntpwedit.ico",
+            "tags": []
+        },
+        "onscreenkeyboard": {
+            "fileName": "OnScreenKeyboard.cmd",
+            "displayName": "OnScreenKeyboard",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "onscreenkeyboard.ico",
+            "tags": []
+        },
+        "prime95 (stress test, cpu and ram based)": {
+            "fileName": "Prime95 (stress test, cpu and ram based).cmd",
+            "displayName": "Prime95",
+            "shortDesc": "stress test, cpu and ram based",
+            "longDesc": "stress test, cpu and ram based",
+            "iconPath": "prime95.ico",
+            "tags": []
+        },
+        "printflush (simples printer fixes)": {
+            "fileName": "PrintFlush (simples printer fixes).cmd",
+            "displayName": "PrintFlush",
+            "shortDesc": "simples printer fixes",
+            "longDesc": "simples printer fixes",
+            "iconPath": "printflush.ico",
+            "tags": []
+        },
+        "processhacker (see all the processes running)": {
+            "fileName": "processhacker (see ALL the processes running).cmd",
+            "displayName": "processhacker",
+            "shortDesc": "see ALL the processes running",
+            "longDesc": "see ALL the processes running",
+            "iconPath": "processhacker.ico",
+            "tags": []
+        },
+        "produkey (see windows and software keys)": {
+            "fileName": "ProduKey (see windows and software keys).cmd",
+            "displayName": "ProduKey",
+            "shortDesc": "see windows and software keys",
+            "longDesc": "see windows and software keys",
+            "iconPath": "produkey.ico",
+            "tags": []
+        },
+        "putty (ssh into a remote pc)": {
+            "fileName": "PuTTY (SSH Into a remote PC).cmd",
+            "displayName": "PuTTY",
+            "shortDesc": "SSH Into a remote PC",
+            "longDesc": "SSH Into a remote PC",
+            "iconPath": "putty.ico",
+            "tags": []
+        },
+        "rawcopy (clone from faulty drive)": {
+            "fileName": "RawCopy (Clone from faulty drive).cmd",
+            "displayName": "RawCopy",
+            "shortDesc": "Clone from faulty drive",
+            "longDesc": "Clone from faulty drive",
+            "iconPath": "rawcopy.ico",
+            "tags": []
+        },
+        "regbak (gunna do something stupid, back it up)": {
+            "fileName": "RegBak (gunna do something stupid, back it up).cmd",
+            "displayName": "RegBak",
+            "shortDesc": "gunna do something stupid, back it up",
+            "longDesc": "gunna do something stupid, back it up",
+            "iconPath": "regbak.ico",
+            "tags": []
+        },
+        "revouninstaller (speedy uninstaller)": {
+            "fileName": "RevoUninstaller (speedy uninstaller).cmd",
+            "displayName": "RevoUninstaller",
+            "shortDesc": "speedy uninstaller",
+            "longDesc": "speedy uninstaller",
+            "iconPath": "revouninstaller.ico",
+            "tags": []
+        },
+        "rkill (kills currently running malware)": {
+            "fileName": "rkill (kills currently running malware).cmd",
+            "displayName": "rkill",
+            "shortDesc": "kills currently running malware",
+            "longDesc": "kills currently running malware",
+            "iconPath": "rkill.ico",
+            "tags": []
+        },
+        "rmprepusb (bootable usb and more)": {
+            "fileName": "RMPrepUSB (bootable usb and more).cmd",
+            "displayName": "RMPrepUSB",
+            "shortDesc": "bootable usb and more",
+            "longDesc": "bootable usb and more",
+            "iconPath": "rmprepusb.ico",
+            "tags": []
+        },
+        "roguekiller (anti-malware)": {
+            "fileName": "RogueKiller (anti-malware).cmd",
+            "displayName": "RogueKiller",
+            "shortDesc": "anti-malware",
+            "longDesc": "anti-malware",
+            "iconPath": "roguekiller.ico",
+            "tags": []
+        },
+        "routerpasswords (default passwords)": {
+            "fileName": "RouterPasswords (default passwords).cmd",
+            "displayName": "RouterPasswords",
+            "shortDesc": "default passwords",
+            "longDesc": "default passwords",
+            "iconPath": "routerpasswords.ico",
+            "tags": []
+        },
+        "rufus (bootable usb)": {
+            "fileName": "rufus (bootable USB).cmd",
+            "displayName": "rufus",
+            "shortDesc": "bootable USB",
+            "longDesc": "bootable USB",
+            "iconPath": "rufus.ico",
+            "tags": []
+        },
+        "shredder (fully delete files)": {
+            "fileName": "Shredder (Fully delete files).cmd",
+            "displayName": "Shredder",
+            "shortDesc": "Fully delete files",
+            "longDesc": "Fully delete files",
+            "iconPath": "shredder.ico",
+            "tags": []
+        },
+        "spacesniffer (visualise space taken up)": {
+            "fileName": "SpaceSniffer (visualise space taken up).cmd",
+            "displayName": "SpaceSniffer",
+            "shortDesc": "visualise space taken up",
+            "longDesc": "visualise space taken up",
+            "iconPath": "spacesniffer.ico",
+            "tags": []
+        },
+        "speccy (system specs overview)": {
+            "fileName": "Speccy (system specs overview).cmd",
+            "displayName": "Speccy",
+            "shortDesc": "system specs overview",
+            "longDesc": "system specs overview",
+            "iconPath": "speccy.ico",
+            "tags": []
+        },
+        "sumo (software update checker)": {
+            "fileName": "SUMo (software update checker).cmd",
+            "displayName": "SUMo",
+            "shortDesc": "software update checker",
+            "longDesc": "software update checker",
+            "iconPath": "sumo.ico",
+            "tags": []
+        },
+        "superantispyware (anti spyware, its super)": {
+            "fileName": "SuperAntiSpyware (anti spyware, its super).cmd",
+            "displayName": "SuperAntiSpyware",
+            "shortDesc": "anti spyware, its super",
+            "longDesc": "anti spyware, its super",
+            "iconPath": "superantispyware.ico",
+            "tags": []
+        },
+        "tcpview (view active network traffic)": {
+            "fileName": "TCPView (view active network traffic).cmd",
+            "displayName": "TCPView",
+            "shortDesc": "view active network traffic",
+            "longDesc": "view active network traffic",
+            "iconPath": "tcpview.ico",
+            "tags": []
+        },
+        "teracopy (speedy file copy)": {
+            "fileName": "TeraCopy (speedy file copy).cmd",
+            "displayName": "TeraCopy",
+            "shortDesc": "speedy file copy",
+            "longDesc": "speedy file copy",
+            "iconPath": "teracopy.ico",
+            "tags": []
+        },
+        "treesize (advanced filesystem viewer)": {
+            "fileName": "treesize (advanced filesystem viewer).cmd",
+            "displayName": "treesize",
+            "shortDesc": "advanced filesystem viewer",
+            "longDesc": "advanced filesystem viewer",
+            "iconPath": "treesize.ico",
+            "tags": []
+        },
+        "ultimatewindowstweaker10": {
+            "fileName": "UltimateWindowsTweaker10.cmd",
+            "displayName": "UltimateWindowsTweaker10",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "ultimatewindowstweaker10.ico",
+            "tags": []
+        },
+        "ultimatewindowstweaker7": {
+            "fileName": "UltimateWindowsTweaker7.cmd",
+            "displayName": "UltimateWindowsTweaker7",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "ultimatewindowstweaker7.ico",
+            "tags": []
+        },
+        "unstoppablecopier (data recovery)": {
+            "fileName": "UnstoppableCopier (data recovery).cmd",
+            "displayName": "UnstoppableCopier",
+            "shortDesc": "data recovery",
+            "longDesc": "data recovery",
+            "iconPath": "unstoppablecopier.ico",
+            "tags": []
+        },
+        "windowsrepair (loads of random repair tools)": {
+            "fileName": "WindowsRepair (Loads of random repair tools).cmd",
+            "displayName": "WindowsRepair",
+            "shortDesc": "Loads of random repair tools",
+            "longDesc": "Loads of random repair tools",
+            "iconPath": "windowsrepair.ico",
+            "tags": []
+        },
+        "winupdateviewer (shows all previous updates installed)": {
+            "fileName": "WinUpdateViewer (shows all previous updates installed).cmd",
+            "displayName": "WinUpdateViewer",
+            "shortDesc": "shows all previous updates installed",
+            "longDesc": "shows all previous updates installed",
+            "iconPath": "winupdateviewer.ico",
+            "tags": []
+        },
+        "writeprotectusb": {
+            "fileName": "WriteProtectUSB.cmd",
+            "displayName": "WriteProtectUSB",
+            "shortDesc": "No Description",
+            "longDesc": "No Description",
+            "iconPath": "writeprotectusb.ico",
+            "tags": []
+        }
+    }
+}

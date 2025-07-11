@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+    <meta charset="utf-8"/>
+    <base href="../">
+    <title>Disking Repair USB</title>
+    <!-- <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" /> -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="main.js"></script>
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://kit.fontawesome.com 'unsafe-inline';">
+</head>
+<body>
+    <div id="navBar">
+        <form onsubmit="searchCall(); return false">
+            <input action="text" id="search" name="Search" placeholder="Search" maxlength="32">
+            <button id="searchSub" title="Search" name="SearchSub"><i class="fa fa-search hover"></i></button>
+        </form>
+        <img id="home" onclick="home()" title="Home" src="static/icons/home.png" class="hover icon">
+        <img id="favourites" onclick="favourites()" title="Favourites" src="static/icons/star.png" class="hover icon">
+        <img id="listIcon" onclick="styleToggle()" title="List View" src="static/icons/list.png" class="hover icon">
+        <img id="picIcon" onclick="styleToggle()" title="Icon View" src="static/icons/images.png" class="hover icon hidden">
+        <img id="fileExplorer" onclick="openFileExplorer()" title="Open Local Files" src="static/icons/file explorer.png" class="hover icon">
+        <img id="refresh" onclick="restart()" title="Fully Restart App (Rarely Needed)" src="static/icons/restart.png" class="hover icon">
+        <p id="programCountContainer" class="unimportant"><b id="programCount">0</b><br>programs</p>
+        <!-- Gap, then float right -->
+        <img id="settings" title="settings" onclick="settingsWindow()"src="static/icons/settings.png" class="hover Ricon">
+        <img id="info" onclick="infoWindow()" title="info" src="static/icons/info.png" class="hover Ricon unimportant">
+    </div> 
+    <!-- This holds all the icons -->
+    <h1 class="loadingHere">Loading Programs! Please wait.</h1>
+    <h1 class="nothingHere hidden">Nothing but failed dreams here!</h1>
+    <div id="programHolder"></div> 
+    <table id="programTable" class="hidden">
+            <colgroup>
+                <col class="filename">
+                <col class="desc">
+                <col class="tags">
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>Filename</th>
+                    <th>Short Description</th>
+                    <th>Tags</th>
+                </tr>
+            </thead>
+            <tbody id="programTableBody"></tbody>
+    </table> 
+
+    <script src="https://kit.fontawesome.com/8a8a19b4df.js" crossorigin="anonymous"></script>
+</body>
+</html>
+
+

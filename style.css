@@ -1,0 +1,435 @@
+* {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  -webkit-user-drag: none;
+}
+
+*:focus {
+  outline: none;
+}
+
+.hover {
+  -webkit-transition: -webkit-transform 0.2s;
+  transition: -webkit-transform 0.2s;
+  transition: transform 0.2s;
+  transition: transform 0.2s, -webkit-transform 0.2s;
+}
+
+.hover:hover {
+  -webkit-transform: scale(1.1, 1.1);
+          transform: scale(1.1, 1.1);
+}
+
+.selected, .window-controls-container {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.hidden {
+  display: none !important;
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url(static/fonts/Rubik-VariableFont_wght.ttf);
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url(static/fonts/Rubik-Italic-VariableFont_wght.ttf);
+  font-style: italic;
+}
+
+.program {
+  vertical-align: top;
+  display: inline-block;
+  cursor: pointer;
+  width: 130px;
+  height: 130px;
+  margin: 8px;
+  text-align: center;
+  background-color: white;
+}
+
+.program img {
+  max-width: 50%;
+  height: 50%;
+  margin: 15px auto;
+}
+
+.program span {
+  display: block;
+  font: normal normal 1.1rem Rubik, sans-serif;
+  overflow: hidden;
+}
+
+.program:hover {
+  -webkit-transform: scale(1.05, 1.05);
+          transform: scale(1.05, 1.05);
+  -webkit-box-shadow: 0 0 3px #000000;
+          box-shadow: 0 0 3px #000000;
+}
+
+#programHolder {
+  margin: 20px auto;
+  width: 100%;
+}
+
+.nothingHere, .loadingHere {
+  font: normal normal 4rem Rubik, sans-serif;
+  color: #707070;
+  margin-top: 75px;
+  text-align: center;
+}
+
+.cet-titlebar,
+.cet-titlebar > *,
+.window-title {
+  font-family: "Rubik", "sans-serif";
+  letter-spacing: 0.5px;
+  color: white;
+}
+
+#navBar {
+  width: 100%;
+  height: 80px;
+  background-color: #3294C7;
+}
+
+#navBar #search, #navBar #searchSub, #navBar .icon, #navBar .Ricon {
+  border: none;
+  width: 10%;
+  height: 40px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 15px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+#navBar #search {
+  width: 20%;
+  min-width: 150px;
+  font: normal 100 1.2rem/5rem Rubik, sans-serif;
+  color: #707070;
+  padding: 0 10px;
+}
+
+#navBar #searchSub {
+  width: 50px;
+  color: #707070;
+  font-size: 1.8rem;
+  margin-left: -2px;
+  background-color: white;
+  text-align: center;
+}
+
+#navBar .icon {
+  width: auto;
+}
+
+#navBar .Ricon {
+  width: auto;
+  float: right;
+  margin-right: 15px;
+  margin-left: 0;
+}
+
+#navBar #programCountContainer {
+  font: normal normal 1rem/1rem Rubik, sans-serif;
+  color: white;
+  margin: 14px 0 0 15px;
+  float: left;
+  width: 10%;
+}
+
+#navBar #programCount {
+  margin: 0;
+  font: normal normal 2.2rem/2.2rem Rubik, sans-serif;
+}
+
+#infoBody {
+  background-image: url("./static/backgrounds/600x600.jpg");
+}
+
+#infoBody #desc {
+  font: normal normal 1.1rem Rubik, sans-serif;
+  width: 48%;
+  display: inline-block;
+  margin: 25px 22px;
+}
+
+#infoBody #updates, #infoBody #tutorial, #infoBody #icons, #infoBody #settingsBody #saveExitBtn, #settingsBody #infoBody #saveExitBtn, #infoBody #settingsBody #cancelBtn, #settingsBody #infoBody #cancelBtn, #infoBody #settingsBody #appInfoBody #editBtn, #settingsBody #appInfoBody #infoBody #editBtn, #infoBody #appInfoBody #settingsBody #editBtn, #appInfoBody #settingsBody #infoBody #editBtn, #infoBody #settingsBody #appInfoBody #openBtn, #settingsBody #appInfoBody #infoBody #openBtn, #infoBody #appInfoBody #settingsBody #openBtn, #appInfoBody #settingsBody #infoBody #openBtn, #infoBody #settingsBody #openSettingsPath, #settingsBody #infoBody #openSettingsPath {
+  position: absolute;
+  right: 0;
+  background-color: transparent;
+  border: 2px solid;
+  font: normal normal 1.3rem Rubik, sans-serif;
+  padding: 5px;
+  width: 35%;
+  cursor: pointer;
+}
+
+#infoBody #updates {
+  margin: 32px 24px;
+}
+
+#infoBody #tutorial {
+  margin: 77px 24px;
+}
+
+#infoBody #icons, #infoBody #settingsBody #saveExitBtn, #settingsBody #infoBody #saveExitBtn, #infoBody #settingsBody #cancelBtn, #settingsBody #infoBody #cancelBtn, #infoBody #settingsBody #appInfoBody #editBtn, #settingsBody #appInfoBody #infoBody #editBtn, #infoBody #appInfoBody #settingsBody #editBtn, #appInfoBody #settingsBody #infoBody #editBtn, #infoBody #settingsBody #appInfoBody #openBtn, #settingsBody #appInfoBody #infoBody #openBtn, #infoBody #appInfoBody #settingsBody #openBtn, #appInfoBody #settingsBody #infoBody #openBtn, #infoBody #settingsBody #openSettingsPath, #settingsBody #infoBody #openSettingsPath {
+  margin: 122px 24px;
+}
+
+#infoBody #stats, #infoBody #author {
+  position: absolute;
+  bottom: 0;
+  font: normal normal 1.2rem Rubik, sans-serif;
+  margin: 5px 22px;
+}
+
+#infoBody #stats b, #infoBody #author b {
+  font: normal normal 1.2rem Rubik, sans-serif;
+}
+
+#infoBody #author {
+  right: 0;
+  text-align: right;
+  width: 40%;
+}
+
+#infoBody i {
+  font: normal normal 0.8rem Rubik, sans-serif;
+}
+
+h4 {
+  font: normal normal 1.7rem Rubik, sans-serif;
+  color: #707070;
+  width: 55%;
+  margin: 15px 22px;
+  display: inline-block;
+}
+
+#settingsBody {
+  background-color: #eeeef0;
+}
+
+#settingsBody #diskingLogo {
+  float: right;
+  margin: 10px 0px;
+}
+
+#settingsBody #programsPathLabel, #settingsBody #iconsPathLabel {
+  font: normal 100 0.9rem/0.8rem Rubik, sans-serif;
+  margin: 0 26px;
+}
+
+#settingsBody #programsPath, #settingsBody #iconsPath {
+  /* top | right | bottom | left */
+  margin: 0px 22px;
+  width: 73%;
+  display: inline-block;
+  font: normal 100 1.1rem/1.8rem Rubik, sans-serif;
+  color: #000000;
+  border: 2px solid #000000;
+}
+
+#settingsBody #fromPC, #settingsBody #icons, #settingsBody #saveExitBtn, #settingsBody #cancelBtn, #settingsBody #appInfoBody #editBtn, #appInfoBody #settingsBody #editBtn, #settingsBody #appInfoBody #openBtn, #appInfoBody #settingsBody #openBtn, #settingsBody #openSettingsPath, #settingsBody #info {
+  background-color: #ffffff;
+  border: 2px solid;
+  font: normal normal 1.1rem Rubik, sans-serif;
+  padding: 5px;
+  width: 15%;
+  cursor: pointer;
+}
+
+#settingsBody #section {
+  margin-top: 30px;
+}
+
+#settingsBody #icons, #settingsBody #saveExitBtn, #settingsBody #cancelBtn, #settingsBody #appInfoBody #editBtn, #appInfoBody #settingsBody #editBtn, #settingsBody #appInfoBody #openBtn, #appInfoBody #settingsBody #openBtn, #settingsBody #openSettingsPath {
+  position: relative;
+  width: 25%;
+  float: right;
+  margin: 15px 22px;
+}
+
+#settingsBody #info {
+  position: absolute;
+  width: 25%;
+  right: 0;
+  margin: 80px 28px;
+}
+
+#settingsBody #iconWarning {
+  font: normal normal 0.9rem Rubik, sans-serif;
+  margin: 10px 16px;
+  width: 60%;
+}
+
+#settingsBody #saveExitBtn, #settingsBody #cancelBtn, #settingsBody #appInfoBody #editBtn, #appInfoBody #settingsBody #editBtn, #settingsBody #appInfoBody #openBtn, #appInfoBody #settingsBody #openBtn, #settingsBody #openSettingsPath {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 10px 22px;
+}
+
+#settingsBody #cancelBtn, #settingsBody #appInfoBody #editBtn, #appInfoBody #settingsBody #editBtn, #settingsBody #appInfoBody #openBtn, #appInfoBody #settingsBody #openBtn {
+  margin: 10px 180px;
+}
+
+#settingsBody #openSettingsPath {
+  margin: 10px 340px;
+}
+
+#settingsBody ::-webkit-input-placeholder {
+  color: #4d4b4b;
+}
+
+#settingsBody :-ms-input-placeholder {
+  color: #4d4b4b;
+}
+
+#settingsBody ::-ms-input-placeholder {
+  color: #4d4b4b;
+}
+
+#settingsBody ::placeholder {
+  color: #4d4b4b;
+}
+
+#appInfoBody {
+  background-color: #eeeef0;
+}
+
+#appInfoBody h4 {
+  width: 95%;
+  margin: 10px 15px 18px 0px;
+}
+
+#appInfoBody #appNameLabel, #appInfoBody #shortDescLabel, #appInfoBody #longDescLabel, #appInfoBody #tagsLabel, #appInfoBody #DappNameLabel {
+  font: normal normal 1.2rem Rubik, sans-serif;
+}
+
+#appInfoBody #appName, #appInfoBody #DappName, #appInfoBody #shortDesc, #appInfoBody #longDesc, #appInfoBody #tags {
+  background-color: white;
+  border: 1px solid black;
+  width: 80%;
+  font: normal 100 1.2rem/1.5rem Rubik, sans-serif;
+  color: black;
+  margin: 0 0 10px 0px;
+}
+
+#appInfoBody #DappName {
+  margin: 0 0 10px 0px;
+  width: 78.7%;
+}
+
+#appInfoBody #shortDesc {
+  width: 95%;
+  margin: 0px 0 15px 12px;
+}
+
+#appInfoBody #longDesc, #appInfoBody #tags {
+  width: 95%;
+  height: 100px;
+  margin: 0 0 15px 12px;
+  resize: none;
+}
+
+#appInfoBody fieldset {
+  border: none;
+}
+
+#appInfoBody ::-webkit-input-placeholder {
+  color: #707070;
+}
+
+#appInfoBody :-ms-input-placeholder {
+  color: #707070;
+}
+
+#appInfoBody ::-ms-input-placeholder {
+  color: #707070;
+}
+
+#appInfoBody ::placeholder {
+  color: #707070;
+}
+
+#appInfoBody #cancelBtn, #appInfoBody #editBtn, #appInfoBody #openBtn {
+  position: absolute;
+  background-color: #ffffff;
+  border: 2px solid;
+  font: normal normal 1.1rem Rubik, sans-serif;
+  padding: 5px;
+  width: 20%;
+  cursor: pointer;
+  bottom: 0;
+  right: 0;
+  margin: 10px 22px;
+}
+
+#appInfoBody #editBtn {
+  right: 120px;
+  margin: 10px 28px;
+}
+
+#appInfoBody #openBtn {
+  right: 240px;
+  margin: 10px 34px;
+}
+
+#programTable {
+  font: normal normal 1.1rem Rubik, sans-serif;
+  margin: 8px;
+  table-layout: fixed;
+  width: 98%;
+  border-collapse: collapse;
+}
+
+#programTable th {
+  text-align: left;
+  padding: 0 5px;
+  border-right: 2px solid #646464;
+}
+
+#programTable p {
+  display: inline;
+  margin: 0;
+  overflow: hidden;
+  word-break: break-word;
+}
+
+#programTable td {
+  padding: 2px 5px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+#programTable tr:hover {
+  background-color: #c5c5c55e;
+}
+
+#programTable img {
+  width: 25px;
+  height: 25px;
+  margin: 3px 5px;
+  vertical-align: middle;
+  float: left;
+}
+
+.selectedLine {
+  background-color: #c5c5c57e !important;
+}
+
+@media screen and (max-width: 750px) {
+  .unimportant {
+    display: none;
+  }
+}
+/*# sourceMappingURL=style.css.map */

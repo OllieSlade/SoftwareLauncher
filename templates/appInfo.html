@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="utf-8"/>
+        <base href="../">
+        <title>Disking Repair USB</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="shortcut icon" href="./static/defaultImage.ico">
+    </head>
+    <body id="appInfoBody">
+        <h4>Application Information</h4>
+        <fieldset id="appInfoFields" disabled>
+            <label id="appNameLabel" for="appName">File Name:</label>
+            <input id="appName" placeholder="ExampleApp.exe 64 character limit" name="appName" maxlength="64">
+
+            <label id="DappNameLabel" for="appName">Disp Name:</label>
+            <input id="DappName" placeholder="ExampleApp 12 character limit" name="appName" maxlength="12">
+
+            <label id="shortDescLabel" for="shortDesc">Short Description:</label>
+            <input placeholder="ExampleApp Short Desc. 64 character limit." id="shortDesc" name="shortDesc" maxlength="64">
+            <label for="longDesc" id="longDescLabel">Long Description:</label>
+            <textarea placeholder="ExampleApp Long Desc. 512 Character Limit" maxlength="512" id="longDesc" name="longDesc"></textarea>
+            <label for="tags" id="tagsLabel">Tags:</label>
+            <textarea placeholder="A list of tags that can be searched for (Short Desc and Name are already searchable), seperate using commas. Eg. 'Example, Test'. 256 Character Limit" 
+                id="tags" maxlength="256" name="tags"></textarea>
+        </fieldset>
+        <!-- Break -->
+        <button class="hover" id="cancelBtn" onclick="closeRemote('delete')">Close</button>
+        <button class="hover" id="editBtn" onclick="">Edit</button>
+        <button class="hover" id="openBtn">Open App</button>
+        
+        <script async src="main.js"></script>
+        <script>
+            window.api.receive("dataLoader", (result) => {
+                document.querySelector("#appName").value = result["fileName"]
+                document.querySelector("#shortDesc").value = result["shortDesc"]
+                document.querySelector("#longDesc").value = result["longDesc"]
+                document.querySelector("#tags").value = result["tags"]
+                document.querySelector("#DappName").value = result["displayName"]
+
+                document.querySelector("#openBtn").onclick = function(){runProgram(result["fileName"])}
+                document.querySelector("#editBtn").onclick = function(){editAppInfo(result["fileName"])}
+                document.querySelector("#editBtn").onclick = function(){editAppInfo(result["fileName"])}
+                if (result["editMode"]) {
+                    editAppInfo(result["fileName"])
+                }
+            })
+        </script>
+    </body>
+</html>
+
+

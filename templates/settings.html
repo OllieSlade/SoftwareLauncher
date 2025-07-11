@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="utf-8"/>
+        <base href="../">
+        <title>Disking Repair USB</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="shortcut icon" href="./static/defaultImage.ico">
+    </head>
+    <body id="settingsBody">
+        <h4>Disking Midhurst Repair USB Menu Settings</h4>
+        <img id="diskingLogo" src="./static/backgrounds/disking4evah.jpg">
+        <div id="section">
+            <label id="programsPathLabel" for="programsPath">Location of programs (A folder containing .exe, .bat, .cmd, .lnk)</label>
+            <input action="text" id="programsPath" name="programsPath" placeholder="Enter Full Path to Programs">
+            <button class="hover" id="fromPC" name="fromPcApps" onclick="openFileExplorer('programsPath')">From PC</button>
+        </div>
+
+        <div id="section">
+            <label id="iconsPathLabel" for="iconsPath">Location of icons* (Can be generated below)</label>
+            <input action="text" id="iconsPath" name="iconsPath" placeholder="Enter Full Path to Icons">
+            <button class="hover" id="fromPC" name="fromPcIcons" onclick="openFileExplorer('iconsPath')">From PC</button>
+        </div>
+        <button class="hover" id="icons" onclick="givemeicons('settings')">Generate Icons**</button>
+        <button class="hover" id="info" onclick="makeJson()">Generate Info***</button>
+        <p id="iconWarning">
+            * The icons must either have the same first word (separated by a space). Or the same entire 
+            file name, nothing in between. It is NOT cap-sensitive.<br>
+            ** Will generate icons for whatever is in the program location box when clicked. Will create a folder. 
+            Does not overwrite old icons.<br>
+            *** Will regenerate information on the programs pointed to by the program location box. WILL WIPE CURRENT DATA!
+        </p>
+        <!-- Break -->
+        <button class="hover" id="openSettingsPath" onclick="openSettingsPath()">Settings Files</button>
+        <button class="hover" id="saveExitBtn" onclick="closeRemote('save')">Save and Exit</button>
+        <button class="hover" id="cancelBtn" onclick="closeRemote('delete')">Cancel</button>
+        <script async src="main.js"></script>
+        <script>
+            window.api.send("information")
+            window.api.receive("information", (info) => {
+                document.querySelector("#programsPath").value = info["appURI"]
+                document.querySelector("#iconsPath").value = info["iconURI"]
+            })
+        </script>
+    </body>
+</html>
+
+
